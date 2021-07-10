@@ -265,7 +265,7 @@
 </p>
 
 
-## I'm currently Learning <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /> - <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vuetify.svg" /> - <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firebase.svg" />
+## I'm currently Learning -
 
 
 ![I want to learn Solana,and i am going to start soon!](https://www.cryptonary.com/wp-content/uploads/2020/12/1.png)
