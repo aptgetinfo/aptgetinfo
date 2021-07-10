@@ -100,6 +100,25 @@
     />
   </a>
 
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+
 
   <a href="https://www.postgresql.org/" target="_blank">
     <img
@@ -120,14 +139,8 @@
   </a>
 
 
-  <a href="https://firebase.google.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
+
+
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -144,25 +157,8 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
+
+
   <a href="https://jestjs.io" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
@@ -171,39 +167,8 @@
       height="40"
     />
   </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://pugjs.org" target="_blank">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/pug.svg"
-      alt="pug"
-      width="40"
-      height="40"
-    />
-  </a>
+
+
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -216,6 +181,15 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
       width="40"
       height="40"
     />
@@ -241,10 +215,17 @@
   </a>
 </p>
 
+
+## I'm currently Learning <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /> - <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vuetify.svg" /> - <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firebase.svg" />
+
+
+![I am a full stack web developer(Learner)](https://miro.medium.com/max/1200/1*2tmzU7bve-VlTkOMWsk_Hw.jpeg)
+
+
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aptgetinfo&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aptgetinfo&show_icons=true&locale=en&theme=radical"
     alt="arhan13"
   />
 </p>
@@ -252,19 +233,16 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=aptgetinfo&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=aptgetinfo&show_icons=true&locale=en&theme=radical"
     alt="arhan13"
   />
 </p>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aptgetinfo)](https://github.com/anuraghazra/github-readme-stats)
-
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aptgetinfo&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aptgetinfo&theme=radical"
     alt="arhan13"
   />
 </p>
