@@ -298,7 +298,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aptgetinfo&show_icons=true&locale=en&theme=flag-india"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aptgetinfo&show_icons=true&locale=en"
     alt="aptgetinfo"
   />
 </p>
@@ -306,7 +306,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=aptgetinfo&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=aptgetinfo&show_icons=true&locale=en&theme=flag-india"
     alt="aptgetinfo"
   /> 
 
@@ -316,7 +316,7 @@
 <p align="center">
    <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aptgetinfo"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aptgetinfo&theme=flag-india"
     alt="aptgetinfo"
   />
 </p>
