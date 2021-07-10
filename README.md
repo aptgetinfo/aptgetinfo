@@ -275,9 +275,7 @@
 <p align="center">
     <img
       src="https://www.bitprime.co.nz/wp-content/uploads/2020/06/solana-400x400.png"
-      alt="gcp"
-      width="40"
-      height="40"/>
+       alt="solana"/>
 </p>
     
 
