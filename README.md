@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **BLOCKCHAIN**
 
-- 🌱 I’m currently learning <a href="https://nextjs.org/" alt="NextJs"><img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nextjs/nextjs-original-wordmark.svg' alt='Nextjs' height='20'></a>
+- 🌱 I’m currently learning <a href="https://nextjs.org/" alt="NextJs"><img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nextjs/nextjs-original-wordmark.svg' alt='Nextjs' height='40'></a>
 
 - 👯 I’m looking to collaborate on **blockchain projects based on Tezos,Etherium**
 
