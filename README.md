@@ -294,7 +294,7 @@
     
 
 
-<p>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aptgetinfo&show_icons=true&locale=en&theme=radical&layout=compact"
@@ -302,7 +302,7 @@
   />
 </p>
 
-<p>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=aptgetinfo&show_icons=true&locale=en&theme=radical"
@@ -312,7 +312,7 @@
 </p>
 
 
-<p>
+<p align="center">
    <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=aptgetinfo&theme=radical"
