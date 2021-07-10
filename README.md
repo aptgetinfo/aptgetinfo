@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact **I hate frontend**
 
+***
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -271,8 +274,6 @@
 ![I want to learn Solana,and i am going to start soon!](https://www.cryptonary.com/wp-content/uploads/2020/12/1.png)
 
 
-
-<p>
 <h3 align="left">Social Media-</h3>
     <h2 align="center">
         <!--Twitter-->
@@ -284,7 +285,6 @@
            <!--linkedin-->
            <a href="https://www.linkedin.com/in/deepak-kumar-1518b1195/" alt="Linkedin"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
     </h2>
-</p>
 <p>
   <img
     align="left"
