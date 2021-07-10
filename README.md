@@ -29,7 +29,7 @@
          <!--Github-->
            <a href="https://github.com/aptgetinfo" alt="Github"><img src='https://raw.githubusercontent.com/nativefier/nativefier-icons/gh-pages/files/github.png' alt='github' height='40'></a>
            <!--linkedin-->
-           <a href="https://www.linkedin.com/in/deepak-kumar-1518b1195/" alt="Linkedin"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
+           <a href="https://media-exp3.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=1634169600&v=beta&t=H0Vws3lPMpnfAaOPM4DuO1yz0E9nfuFwI34YGyAr34o' alt='linkedin' height='40'></a>
     </h2>
 
 <h3 align="left">Languages and Tools:</h3>
