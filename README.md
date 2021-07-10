@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **BLOCKCHAIN**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **blockchain projects based on Tezos,Etherium**
 
