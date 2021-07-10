@@ -153,7 +153,7 @@
 
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
       alt="nodejs"
       width="40"
       height="40"
@@ -164,7 +164,7 @@
 
    <a href="https://expressjs.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
       alt="expressjs"
       width="40"
       height="40"
@@ -173,7 +173,7 @@
 
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
       alt="mongodb"
       width="40"
       height="40"
