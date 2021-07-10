@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I hate frontend**
 
 
-<h3 align="left">Social Media-</h3>
+<h3 align="left">Connect with me on Social Media-</h3>
     <h2 align="center">
         <!--Twitter-->
            <a href="https://twitter.com/deepak_kumar216" alt="Twitter"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
@@ -30,7 +30,7 @@
            <a href="https://github.com/aptgetinfo" alt="Github"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
            <!--linkedin-->
            <a href="https://www.linkedin.com/in/deepak-kumar-1518b1195/" alt="Linkedin"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
-    </
+    </h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -319,4 +319,4 @@
 
 
 
-h2>
+
