@@ -272,9 +272,14 @@
 
 ## I'm currently Learning -
 
-<p align="center">
-![I want to learn Solana,and i am going to start soon!](https://www.bitprime.co.nz/wp-content/uploads/2020/06/solana-400x400.png)
-</p>
+    <img
+    align="center"
+      src="https://www.bitprime.co.nz/wp-content/uploads/2020/06/solana-400x400.png"
+      alt="gcp"
+      width="40"
+      height="40"
+    />
+
 
 <h3 align="left">Social Media-</h3>
     <h2 align="center">
