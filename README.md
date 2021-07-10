@@ -280,7 +280,7 @@
         <!--Twitter-->
            <a href="https://twitter.com/deepak_kumar216" alt="Twitter"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
         <!--Gmail-->
-           <a href="mailto:deepak.2002.02.16@gmail.com" alt="Contact me"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Gmail' height='40'></a>
+           <a href="mailto:deepak.2002.02.16@gmail.com" alt="Contact me"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Gmail' height='40' color='red'></a>
          <!--Github-->
            <a href="https://github.com/aptgetinfo" alt="Github"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
            <!--linkedin-->
