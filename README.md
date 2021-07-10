@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github/aptgetinfo](https://github.com/aptgetinfo)
 
-- 📝 I regularly write articles on <a href="aptgetinfo.medium.com" alt="Medium"><img src='https://raw.githubusercontent.com/nativefier/nativefier-icons/gh-pages/files/medium.png' alt='Medium' height='40'></a> <a href="https://aptgetinfo.blogspot.com/" alt="Blogspot"><img src='https://www.blogger.com/img/logo_blogger_40px.png' alt='BlogSpot' height='40'></a>
+- 📝 I regularly write articles on <a href="aptgetinfo.medium.com" alt="Medium"><img src='https://raw.githubusercontent.com/nativefier/nativefier-icons/gh-pages/files/medium.png' alt='Medium' height='20'></a> <a href="https://aptgetinfo.blogspot.com/" alt="Blogspot"><img src='https://www.blogger.com/img/logo_blogger_40px.png' alt='BlogSpot' height='20'></a>
 
 - 💬 Ask me about **cryptocurrencies,hacking,core-computing-systems**
 
