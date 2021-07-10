@@ -79,7 +79,7 @@
       height="40"
     />
   </a>
-
+<br>
 
   <a href="https://www.cprogramming.com/" target="_blank">
     <img
@@ -118,6 +118,8 @@
       height="40"
     />
   </a>
+    
+    <br>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
@@ -198,6 +200,7 @@
     />
   </a>
 
+    <br>
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
@@ -227,7 +230,7 @@
   </a>
 
 
-
+<br>
 
   <a href="https://git-scm.com/" target="_blank">
     <img
@@ -245,7 +248,7 @@
       height="40"
     />
   </a>
-
+<br>
 
   <a href="https://www.w3.org/html/" target="_blank">
     <img
