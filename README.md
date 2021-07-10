@@ -298,7 +298,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aptgetinfo&show_icons=true&locale=en&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aptgetinfo&show_icons=true&locale=en&langs_count=10"
     alt="aptgetinfo"
   />
 </p>
