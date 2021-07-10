@@ -272,13 +272,14 @@
 
 ## I'm currently Learning -
 
+<p align="center">
     <img
-    align="center"
       src="https://www.bitprime.co.nz/wp-content/uploads/2020/06/solana-400x400.png"
       alt="gcp"
       width="40"
-      height="40"
-    />
+      height="40"/>
+</p>
+    
 
 
 <h3 align="left">Social Media-</h3>
