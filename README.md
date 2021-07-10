@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **cryptocurrencies,hacking,core-computing-systems**
 
-- 📫 Reach me on **<a href="mailto:deepak.2002.02.16@gmail.com" alt="Contact me">Mail</a>**
+- 📫 Reach me on <a href="mailto:deepak.2002.02.16@gmail.com" alt="Contact me"><img src='https://raw.githubusercontent.com/nativefier/nativefier-icons/gh-pages/files/gmail.png' alt='Gmail' height='20'></a>
 
 - ⚡ Fun fact **I hate frontend**
 
@@ -23,11 +23,11 @@
 <h3 align="left">Connect with me on Social Media-</h3>
     <h2 align="center">
         <!--Twitter-->
-           <a href="https://twitter.com/deepak_kumar216" alt="Twitter"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
+           <a href="https://twitter.com/deepak_kumar216" alt="Twitter"><img src='https://raw.githubusercontent.com/nativefier/nativefier-icons/gh-pages/files/twitter.png' alt='twitter' height='40' width='40'></a>
         <!--Gmail-->
-           <a href="mailto:deepak.2002.02.16@gmail.com" alt="Contact me"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Gmail' height='40' color='red'></a>
+           <a href="mailto:deepak.2002.02.16@gmail.com" alt="Contact me"><img src='https://raw.githubusercontent.com/nativefier/nativefier-icons/gh-pages/files/gmail.png' alt='Gmail' height='40'></a>
          <!--Github-->
-           <a href="https://github.com/aptgetinfo" alt="Github"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+           <a href="https://github.com/aptgetinfo" alt="Github"><img src='https://raw.githubusercontent.com/nativefier/nativefier-icons/gh-pages/files/github.png' alt='github' height='40'></a>
            <!--linkedin-->
            <a href="https://www.linkedin.com/in/deepak-kumar-1518b1195/" alt="Linkedin"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
     </h2>
