@@ -304,7 +304,7 @@
 
 <p>
   &nbsp;<img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=aptgetinfo&show_icons=true&locale=en&theme=radical"
     alt="aptgetinfo"
   />
@@ -313,7 +313,7 @@
 
 <p>
   <img
-    align="center"
+    align="right"
     src="https://github-readme-streak-stats.herokuapp.com/?user=aptgetinfo&theme=radical"
     alt="aptgetinfo"
   />
