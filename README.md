@@ -15,8 +15,7 @@
 
 - 💬 Ask me about **cryptocurrencies,hacking,core-computing-systems**
 
-- 📫 How to reach me **<a href="mailto:deepak.2002.02.16@gmail.com" alt="Contact me"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' width="40"
-    height="40" alt='Gmail' height='40'></a>**
+- 📫 How to reach me **<a href="mailto:deepak.2002.02.16@gmail.com" alt="Contact me">Mail</a>**
 
 - ⚡ Fun fact **I hate frontend**
 
