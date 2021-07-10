@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">I am a Learner, Developer ,Student</h3>
+<h3 align="center">A student in Love with Computers</h3>
 
 
 
 - 🔭 I’m currently working on **BLOCKCHAIN**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **blockchain projects based on Tezos,Etherium**
 
 - 👨‍💻 All of my projects are available at [github/aptgetinfo](https://github.com/aptgetinfo)
 
-- 📝 I regularly write articles on [Medium.com](https://aptgetinfo.medium.com/)
+- 📝 I regularly write articles on [medium](https://aptgetinfo.medium.com/)
 
-- 💬 Ask me about **cryptocurrencies,hacking.**
+- 💬 Ask me about **cryptocurrencies,hacking,core-computing-systems**
 
 - 📫 How to reach me **deepak.2002.02.16@gmail.com**
 
@@ -31,7 +31,7 @@
     />
   </a>
 
-  <a href="https://console.cloud.google.com/" target="_blank">
+  <a href="https://www.linux.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="linux"
@@ -40,10 +40,29 @@
     />
   </a>
 
-  <a href="https://console.cloud.google.com/" target="_blank">
+
+  <a href="https://www.debian.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"
+      alt="debian"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
       alt="bash"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.openssh.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg"
+      alt="ssh"
       width="40"
       height="40"
     />
@@ -69,6 +88,24 @@
     />
   </a>
 
+  <a href="https://jupyter.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"
+      alt="jupyter"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://www.raspberrypi.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg"
+      alt="raspberry-pi/"
+      width="40"
+      height="40"
+    />
+  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
@@ -78,6 +115,26 @@
       height="40"
     />
   </a>
+
+
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://redux.js.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
 
 
   <a href="https://nodejs.org" target="_blank">
@@ -91,10 +148,10 @@
 
 
 
-   <a href="https://nodejs.org" target="_blank">
+   <a href="https://expressjs.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="nodejs"
+      alt="expressjs"
       width="40"
       height="40"
     />
@@ -110,10 +167,29 @@
   </a>
 
 
-  <a href="https://www.postgresql.org/" target="_blank">
+  <a href="https://jestjs.io" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+      alt="jest"
+      width="40"
+      height="40"
+    />
+  </a>
+
+
+  <a href="https://handlebarsjs.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg"
+      alt="handlebars"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
-      alt="postgresql"
+      alt="flask"
       width="40"
       height="40"
     />
@@ -129,10 +205,10 @@
     />
   </a>
 
-  <a href="https://www.postgresql.org/" target="_blank">
+  <a href="https://www.sqlalchemy.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg"
-      alt="postgresql"
+      alt="sqlalchemy"
       width="40"
       height="40"
     />
@@ -158,33 +234,6 @@
     />
   </a>
 
-
-  <a href="https://jestjs.io" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-
-
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
 
   <a href="https://www.w3.org/html/" target="_blank">
     <img
@@ -219,7 +268,7 @@
 ## I'm currently Learning <img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /> - <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vuetify.svg" /> - <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firebase.svg" />
 
 
-![I am a full stack web developer(Learner)](https://miro.medium.com/max/1200/1*2tmzU7bve-VlTkOMWsk_Hw.jpeg)
+![I want to learn Solana,and i am going to start soon!](https://www.cryptonary.com/wp-content/uploads/2020/12/1.png)
 
 
 <p>
