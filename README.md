@@ -303,7 +303,7 @@
 </p>
 
 <p>
-  &nbsp;<img
+  <img
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=aptgetinfo&show_icons=true&locale=en&theme=radical"
     alt="aptgetinfo"
