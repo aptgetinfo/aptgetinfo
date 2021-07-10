@@ -275,7 +275,6 @@
 
 ![I want to learn Solana,and i am going to start soon!](https://wp.clrifyd.com/wp-content/uploads/2021/06/solana-1920x1080-1-1024x576.png)
 
-***
 <h3 align="left">Social Media-</h3>
     <h2 align="center">
         <!--Twitter-->
