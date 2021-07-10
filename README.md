@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **cryptocurrencies,hacking,core-computing-systems**
 
-- 📫 How to reach me **deepak.2002.02.16@gmail.com**
+- 📫 How to reach me **<a href="mailto:deepak.2002.02.16@gmail.com" alt="Contact me"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Gmail' height='40'></a>**
 
 - ⚡ Fun fact **I hate frontend**
 
@@ -24,7 +24,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://console.cloud.google.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
@@ -267,13 +267,15 @@
   </a>
 </p>
 
+***
+
 
 ## I'm currently Learning -
 
 
 ![I want to learn Solana,and i am going to start soon!](https://www.cryptonary.com/wp-content/uploads/2020/12/1.png)
 
-
+***
 <h3 align="left">Social Media-</h3>
     <h2 align="center">
         <!--Twitter-->
@@ -285,6 +287,8 @@
            <!--linkedin-->
            <a href="https://www.linkedin.com/in/deepak-kumar-1518b1195/" alt="Linkedin"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
     </h2>
+
+    ---
 <p>
   <img
     align="left"
