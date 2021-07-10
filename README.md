@@ -297,27 +297,27 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aptgetinfo&show_icons=true&locale=en&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aptgetinfo&show_icons=true&locale=en&theme=radical&layout=compact"
     alt="aptgetinfo"
   />
 </p>
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=aptgetinfo&show_icons=true&locale=en&theme=radical"
     alt="aptgetinfo"
   /> 
- <img
-    align="right"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aptgetinfo&theme=radical"
-    alt="aptgetinfo"
-  />
+
 </p>
 
 
 <p>
-
+   <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aptgetinfo&theme=radical"
+    alt="aptgetinfo"
+  />
 </p>
 
 
