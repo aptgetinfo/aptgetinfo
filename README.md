@@ -288,11 +288,11 @@
            <a href="https://www.linkedin.com/in/deepak-kumar-1518b1195/" alt="Linkedin"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
     </h2>
 
-    ***
+
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aptgetinfo&show_icons=true&locale=en&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aptgetinfo&show_icons=true&locale=en&theme=radical&layout=compact"
     alt="aptgetinfo"
   />
 </p>
