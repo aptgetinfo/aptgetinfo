@@ -294,9 +294,9 @@
     
 
 
-<p align="center">
+<p>
   <img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aptgetinfo&show_icons=true&locale=en&theme=radical&layout=compact"
     alt="aptgetinfo"
   />
