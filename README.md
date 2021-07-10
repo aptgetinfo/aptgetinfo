@@ -118,8 +118,7 @@
       height="40"
     />
   </a>
-    
-    <br>
+ <br>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
@@ -200,7 +199,7 @@
     />
   </a>
 
-    <br>
+<br>
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
