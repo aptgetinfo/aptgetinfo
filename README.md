@@ -272,7 +272,7 @@
 
 
 
-
+<p>
 <h3 align="left">Social Media-</h3>
     <h2 align="center">
         <!--Twitter-->
@@ -284,11 +284,12 @@
            <!--linkedin-->
            <a href="https://www.linkedin.com/in/deepak-kumar-1518b1195/" alt="Linkedin"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
     </h2>
+</p>
 <p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aptgetinfo&show_icons=true&locale=en&theme=radical"
-    alt="arhan13"
+    alt="aptgetinfo"
   />
 </p>
 
@@ -296,7 +297,7 @@
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=aptgetinfo&show_icons=true&locale=en&theme=radical"
-    alt="arhan13"
+    alt="aptgetinfo"
   />
 </p>
 
@@ -305,6 +306,6 @@
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=aptgetinfo&theme=radical"
-    alt="arhan13"
+    alt="aptgetinfo"
   />
 </p>
