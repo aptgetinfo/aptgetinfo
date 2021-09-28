@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👯 I’m looking to collaborate on **blockchain projects based on Tezos,Etherium**
+- 👯 I’m looking to collaborate on **blockchain projects based on Tezos,Ethereum**
 
 - 👨‍💻 All of my projects are available at [github/aptgetinfo](https://github.com/aptgetinfo)
 
