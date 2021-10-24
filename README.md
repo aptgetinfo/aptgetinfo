@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **blockchain projects based on Tezos,Ethereum**
 
 - 👨‍💻 All of my projects are available at [github/aptgetinfo](https://github.com/aptgetinfo)
-
+<!-- 
 - 📝 I regularly write articles on <a href="aptgetinfo.medium.com" alt="Medium"><img src='https://raw.githubusercontent.com/nativefier/nativefier-icons/gh-pages/files/medium.png' alt='Medium' height='25'></a> <a href="https://aptgetinfo.blogspot.com/" alt="Blogspot"><img src='https://www.blogger.com/img/logo_blogger_40px.png' alt='BlogSpot' height='25'></a>
 
 - 💬 Ask me about **cryptocurrencies,hacking,core-computing-systems**
@@ -31,7 +31,7 @@
            <!--linkedin-->
           <a href="https://www.linkedin.com/in/deepak-kumar-1518b1195/" alt="Linkedin"><img src='https://media-exp3.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=1634169600&v=beta&t=H0Vws3lPMpnfAaOPM4DuO1yz0E9nfuFwI34YGyAr34o' alt='linkedin' height='40'></a>
     </h2>
-
+ -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://console.cloud.google.com/" target="_blank">
