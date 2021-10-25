@@ -31,7 +31,6 @@
            <!--linkedin-->
           <a href="https://www.linkedin.com/in/deepak-kumar-1518b1195/" alt="Linkedin"><img src='https://media-exp3.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=1634169600&v=beta&t=H0Vws3lPMpnfAaOPM4DuO1yz0E9nfuFwI34YGyAr34o' alt='linkedin' height='40'></a>
     </h2>
- -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://console.cloud.google.com/" target="_blank">
@@ -295,7 +294,7 @@
     
 ***
 
-<!-- <p>
+<p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aptgetinfo&show_icons=true&locale=en&langs_count=10&theme=radical"
@@ -321,6 +320,6 @@
   />
 </p>
 
- -->
+
 
 
