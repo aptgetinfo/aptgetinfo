@@ -279,7 +279,7 @@
   </a>
     
     
-     <a href="https://getbootstrap.com/" target="_blank">
+   <a href="https://getbootstrap.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
       alt="bootstrap"
@@ -289,8 +289,8 @@
   </a>
     
     
-    
-         <a href="https://www.rust-lang.org/" target="_blank">
+<!--     
+  <a href="https://www.rust-lang.org/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"
       alt="rust"
@@ -298,7 +298,7 @@
       height="40"
     />
   </a>
-    
+     -->
     
 </p>
 
