@@ -23,13 +23,13 @@
 <h3 align="left">Connect with me on Social Media-</h3>
     <h2 align="center">
         <!--Twitter-->
-           <a href="https://twitter.com/deepak_kumar216" alt="Twitter"><img src='https://raw.githubusercontent.com/nativefier/nativefier-icons/gh-pages/files/twitter.png' alt='twitter' height='40' width='40'></a>
+           <a href="https://twitter.com/deepak_kumar216" alt="Twitter"><img src="{https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white}" /></a>
         <!--Gmail-->
-           <a href="mailto:deepak.2002.02.16@gmail.com" alt="Contact me"><img src='https://raw.githubusercontent.com/nativefier/nativefier-icons/gh-pages/files/gmail.png' alt='Gmail' height='40'></a>
+           <a href="mailto:deepak.2002.02.16@gmail.com" alt="Contact me"><img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" /></a>
          <!--Github-->
-           <a href="https://t.me/kernel_panic0" alt="Telegram"><img src='http://www.vectorico.com/download/social_media/Telegram-Icon.png' alt='telegram' height='40'></a>
+           <a href="https://t.me/kernel_panic0" alt="Telegram"><img src="{https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white}" /></a>
            <!--linkedin-->
-        <a href="https://www.linkedin.com/in/deepak-kumar-1518b1195/" alt="Linkedin"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+        <a href="https://www.linkedin.com/in/deepak-kumar-1518b1195/" alt="Linkedin"><img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /></a>
     </h2>
 
 <h3 align="left">Languages and Tools:</h3>
