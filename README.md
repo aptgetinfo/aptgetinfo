@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👯 I’m looking to collaborate on **blockchain projects based on Tezos,Ethereum**
+- 👯 I’m looking to collaborate on **blockchain projects based on Tezos,Ethereum,Solana**
 
 - 👨‍💻 All of my projects are available at [github/aptgetinfo](https://github.com/aptgetinfo)
 - 📝 I regularly write articles on <a href="aptgetinfo.medium.com" alt="Medium"><img src='https://raw.githubusercontent.com/nativefier/nativefier-icons/gh-pages/files/medium.png' alt='Medium' height='25'></a> <a href="https://aptgetinfo.blogspot.com/" alt="Blogspot"><img src='https://www.blogger.com/img/logo_blogger_40px.png' alt='BlogSpot' height='25'></a>
@@ -270,7 +270,7 @@
   </a>
     
     
-<!--     
+    
   <a href="https://www.rust-lang.org/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"
@@ -279,7 +279,7 @@
       height="40"
     />
   </a>
-     -->
+    
     
 </p>
 
