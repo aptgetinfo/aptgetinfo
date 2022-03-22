@@ -317,4 +317,6 @@
     alt="aptgetinfo"
   />
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tanishq2505&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+    [![trophy](https://github-profile-trophy.vercel.app/?username=Tanishq2505&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
